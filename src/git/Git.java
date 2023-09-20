@@ -7,11 +7,11 @@ public class Git {
             
         }
         if(true){
-            
+        
         }
     }
 
-    private static void metodus() {
+    private  void metodus() {
         throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
     }
     
